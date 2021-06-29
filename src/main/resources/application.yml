@@ -1,0 +1,4 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://dbUser:WaIRr5XQj8dCEM9p@mentorshipcluster.1vjb2.mongodb.net/mentorship
